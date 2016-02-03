@@ -1,0 +1,11 @@
+# User.txt
+1000:宁丽娟:1234:13810381038:ninglj@tarena.com.cn
+# 测试用的密码是:1234
+1001:刘苍松:1234:13810381038:liucs@tarena.com.cn
+1002:张三:1234:13810381038:zhangsan@tarena.com.cn
+1003:李四:1234:13810381038:lisi@tarena.com.cn
+
+1004:王五:1234:13810381038:wangwu@tarena.com.cn
+1005:赵六:1234:13810381038:zhaoliu@tarena.com.cn
+1006:范传奇:1234:15810000000:fancq@tarena.com.cn
+1007:田七:1234:15810000000:tianqi@tarena.com.cn

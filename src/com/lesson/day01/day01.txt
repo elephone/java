@@ -1,0 +1,11 @@
+线程的使用
+	main方法中为:
+	Thread th = new Thread(panel);
+	//启动线程
+	th.start();
+	类中：
+ 	implements Runnable()
+ 	  @Override
+    public void run() {}
+ 	
+ 	
